@@ -32,6 +32,9 @@ Hexes grouped in constituencies.
 hex_grouped.geojson
 Constituencies grouped in regions.
 
+Results.csv
+Election results. Can be joined based on "constituen"	and	"c_id".
+
 /*
  * ------------------------------------------------------------
  * "LICENSE":
